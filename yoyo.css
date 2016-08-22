@@ -1,0 +1,48 @@
+body 
+{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    max-width: 50 em;
+}
+
+header 
+{
+    display: block;
+    background-color: #ebebeb;
+    padding: 50px;
+    overflow: hidden;
+}
+
+header h1 {
+    display:inline-block;
+    float: left;
+    margin: 0;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+header ul {
+    display: inline-block;
+    float:right;
+}
+
+header li 
+{
+  display:inline-block;
+  list-style-type:none;
+  margin: 0 20px 0 20px;
+}
+
+header li a 
+{
+  text-decoration: none;
+  color:#478cea;
+  font-weight: 600;
+    transition: all 1s;
+}
+
+header li a:hover 
+{
+    color:#1568d8;
+    border-bottom: 3px solid #478cea;
+}
