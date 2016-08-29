@@ -4,6 +4,22 @@ body
     margin: 0;
     max-width: 60 em;
     color: #566b78;
+    padding-bottom: 50px;
+}
+
+#green
+{
+    background-color: #2dcb2d;
+    padding: 7px;
+    border-radius: 3px;
+    color: white;
+}
+#blue 
+{
+    background-color: #48e2e8;
+    padding: 7px;
+    border-radius: 3px;
+    color:white;
 }
 
 #link a

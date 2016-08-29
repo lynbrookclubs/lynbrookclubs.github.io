@@ -38,13 +38,14 @@
     background-color: #fff;
     color: #478cea;
     border: 1px solid #478cea;
-    padding: 10px 15px;
+    padding: 15px 20px;
     font-weight: 100;
     border-radius: 5px;
     text-decoration: none;
     display: inline-block;
     margin-bottom: 10px;
     transition: 1s all;
+    margin-bottom: 50px;
 }
 
 #website:hover 
