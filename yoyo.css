@@ -120,6 +120,11 @@ main
   .table {
     display: block;
   }
+    
+header li 
+    {
+        display:block;
+    }
 }
 
 .table a 
