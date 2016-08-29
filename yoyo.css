@@ -3,6 +3,38 @@ body
     font-family: 'Open Sans', sans-serif;
     margin: 0;
     max-width: 60 em;
+    color: #566b78;
+}
+
+#link a
+{
+    border-bottom:3px;
+    color: #478cea;
+    font-weight: 600;
+    display:block;
+    margin-bottom: 10px;
+    font-size: 30px;
+    transition: all 1s;
+}
+
+#link a:hover
+{
+    color: #3379d8;
+}
+
+#link a:visited
+{
+    color: #b5b5b5;   
+}
+
+#link h1 
+{
+    color: #333;
+}
+
+#link p
+{
+    font-size: 20px;   
 }
 
 header 
@@ -72,6 +104,27 @@ main
   .table {
     display: block;
   }
+}
+
+.table a 
+{
+    color: #478cea;
+    font-weight: 600;
+    display:block;
+    margin-bottom: 10px;
+    text-decoration:none;
+    font-size: 19px;
+}
+
+.table a:hover 
+{
+    text-decoration: underline;
+    color: #3379d8;
+}
+
+.table a:visited
+{
+    color: #b5b5b5;   
 }
 
 .row {
