@@ -1,0 +1,53 @@
+#club h1
+{
+    font-weight: 400;   
+    color:#333;
+    margin: 0;
+    font-size: 40px;
+}
+
+#club h2
+{
+    font-weight 700;
+    font-size: 19px;
+    letter-spacing: 6px;
+    text-transform: uppercase;
+    color:#3992eb;
+    margin-top: 5px;
+}
+
+#club p 
+{
+    line-height: 1.5;   
+    color: #566b78;
+}
+
+#club img 
+{
+    height: 200px;
+}
+
+.table 
+{
+    width: 75% !important;
+    margin: 0 auto;
+}
+
+#website
+{
+    background-color: #fff;
+    color: #478cea;
+    border: 1px solid #478cea;
+    padding: 10px 15px;
+    font-weight: 100;
+    border-radius: 5px;
+    text-decoration: none;
+    display: inline-block;
+    margin-bottom: 10px;
+    transition: 1s all;
+}
+
+#website:hover 
+{
+    background-color: #eef0f2;
+}

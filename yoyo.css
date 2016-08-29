@@ -1,10 +1,8 @@
-.split
-
 body 
 {
     font-family: 'Open Sans', sans-serif;
     margin: 0;
-    max-width: 50 em;
+    max-width: 60 em;
 }
 
 header 
@@ -59,7 +57,7 @@ header li a:hover
 
 main 
 {
-    max-width: 50em;
+    max-width: 60em;
     margin: 0 auto;
     text-align:center;
 }
